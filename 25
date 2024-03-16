@@ -1,0 +1,8 @@
+
+> project-decoder-ring@1.0.0 test
+> mocha test -g npm test -- -g should wrap around the shifted index if
+
+
+
+  0 passing (0ms)
+
